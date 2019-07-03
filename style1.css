@@ -1,0 +1,25 @@
+body {
+	background-color: red; 
+	font-family: 'Century Gothic', Calibri, serif ;
+	font-size: 13px; 
+	margin: 0px;
+	padding: 0px 
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+}
+
+header{
+	height: 100px;
+
+}
+
+footer{
+	height: 80px; 
+	padding-top: 30px; 
+	text-align: center; 
+	background-color: 
+}
